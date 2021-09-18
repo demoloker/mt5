@@ -1,4 +1,7 @@
 {
+  "mt5_wait": {
+    "status": "wait"
+  },
   "mt5_ok": {
     "status": "ok"
   },
