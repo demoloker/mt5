@@ -1,0 +1,14 @@
+{
+  "mt5_ok": {
+    "status": "ok"
+  },
+  "mt5_invalid": {
+    "status": "invalid"
+  },
+  "mt5_timeout": {
+    "status": "timeout"
+  },
+  "mt5_ter_err": {
+    "status": "ter_err"
+  }
+}
